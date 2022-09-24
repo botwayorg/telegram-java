@@ -27,7 +27,7 @@ dependencies {
 
     implementation 'com.github.pengrad:java-telegram-bot-api:6.2.0'
 
-    implementation 'org.yaml:snakeyaml:1.30'
+    implementation 'org.yaml:snakeyaml:1.32'
 
     implementation 'net.mamoe.yamlkt:yamlkt:0.10.2'
 
